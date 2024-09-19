@@ -33,6 +33,8 @@
     "nodemon": "^2.0.4"
   },
   "engines": {
-    "node": "12.x"
+    "node": "20.x",
+    "npm" : "10.x"
+
 }
 }
